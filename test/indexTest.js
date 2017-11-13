@@ -1,6 +1,6 @@
 const expect = chai.expect;
 
-describe('boardMembers', function() {
+describe('BoardMember', function() {
   let polishedBoardMember;
   let backSlappingGene;
   before(() => {
@@ -8,7 +8,7 @@ describe('boardMembers', function() {
     backSlappingGene = new BoardMember("Mr. Gene", "Delaware", "business")
   })
 
-  describe('boardMember Constructor Function', function() {
+  describe('BoardMember Constructor Function', function() {
     it('can create a BoardMember with a name, home state, and training', function() {
       expect(polishedBoardMember).to.be.an.instanceof(BoardMember)
       expect(polishedBoardMember.name).to.equal("Mr. Polished")
