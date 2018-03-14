@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/learn-co-curriculum/js-object-oriented-prototypes-lab.git"
+    "url": "git+ssh:git@github.com/learn-co-curriculum/js-object-oriented-prototypes-lab.git"
   },
   "scripts": {
     "postinstall": "gem install learn-co",
@@ -21,9 +21,9 @@
   "author": "Flatiron School",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/learn-co-curriculum/js-object-oriented-prototypes-lab/issues"
+    "url": "https:github.com/learn-co-curriculum/js-object-oriented-prototypes-lab/issues"
   },
-  "homepage": "https://github.com/learn-co-curriculum/js-object-oriented-prototypes-lab#readme",
+  "homepage": "https:github.com/learn-co-curriculum/js-object-oriented-prototypes-lab#readme",
   "devDependencies": {
     "learn-browser": "^0.1.13"
   }

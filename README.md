@@ -20,4 +20,4 @@ Add following methods to the prototype of the constructor:
 
 + `sayHi` — returns `"Hi, my name is <name>. I am from <homestate>, and I was trained in <training>.`
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/js-object-oriented-prototypes-lab' title='js-object-oriented-prototypes-lab'>Prototypes Lab</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https:learn.co/lessons/js-object-oriented-prototypes-lab' title='js-object-oriented-prototypes-lab'>Prototypes Lab</a> on Learn.co and start learning to code for free.</p>
