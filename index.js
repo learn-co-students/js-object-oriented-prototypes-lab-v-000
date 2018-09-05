@@ -1,3 +1,5 @@
+// Add following methods to the prototype of the constructor
+
 function BoardMember(name, homeState, training) {
   this.name = name;
   this.homeState = homeState;
