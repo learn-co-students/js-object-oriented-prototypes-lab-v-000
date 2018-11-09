@@ -1,4 +1,4 @@
-# Prototypes in JS Lab
+learn# Prototypes in JS Lab
 
 ## Objectives
 + Refactor code to use prototypes
